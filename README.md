@@ -17,5 +17,5 @@ Watch the problem explanations here:
 |------|---------------------------------|--------------|
 | RNA  | Transcribing DNA into RNA      | [Watch](https://youtu.be/1SyV2E5T028) |
 | HAMM | Counting Point Mutations       | [Watch](https://youtu.be/TUcn0AYn5p0) |
-| PRTM | Calculating Protein Mass       | [Watch](https://youtu.be/DPevr1hFqsc) |
-| SUBS | Finding a Motif in DNA         | [Watch](https://youtu.be/TUcn0AYn5p0) |
+| PRTM | Calculating Protein Mass       | [Watch](https://youtu.be/DPevr1hFqsc?si=mr6trsZD2M3lgSZr) |
+| SUBS | Finding a Motif in DNA         | [Watch]([https://youtu.be/TUcn0AYn5p0](https://youtu.be/DGEQMns5COs?si=lkLmFax-ZWAQzDUo)) |
