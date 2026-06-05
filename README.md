@@ -8,7 +8,7 @@ I solve each problem using **multiple different methods** (from basic loops to o
 
 ### 🎥 YouTube Channel
 Watch the problem explanations here:  
-**[YouTube Channel]([https://www.youtube.com/@yourchannel](https://youtu.be/TUcn0AYn5p0?si=jbjpDfVovAmcs2mV))**  
+**[YouTube Channel]([https://youtu.be/TUcn0AYn5p0?si=jbjpDfVovAmcs2mV])**  
 
 ---
 ### Solved Problems
